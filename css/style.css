@@ -1,0 +1,117 @@
+.container{
+	width: 1170px;
+	margin: 0 auto;
+}
+.minimo{
+	font-size: 40px;
+	text-transform: uppercase;
+}
+.flex{
+	display: flex;
+	justify-content: space-between;
+}
+.nav-li{
+	font-size: 24px;
+	text-transform: uppercase;
+	margin-right: 30px;
+}
+.header{
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+.background{
+	background-image: url(https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 500px;
+	background-position: center;
+}
+.four{
+	margin-right: 0;
+}
+.container2{
+	width: 970px;
+	margin: 0 auto;
+}
+.photodiary{
+	text-transform: uppercase;
+	font-size: 12px;
+	padding-top: 50px;
+}
+.section2-h2{
+	font-size: 24px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.comment{
+	text-transform: uppercase;
+	padding-top: 10px;
+}
+.section3-box{
+	width: 450px;
+}
+.section3-image{
+	width: 100%;
+	height: 250px;
+	padding-bottom: 30px;
+}
+.section3{
+	padding-top: 100px;
+}
+.lifestyle{
+	text-transform: uppercase;
+	font-size: 12px;
+}
+.section3-h2{
+	font-size: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.photodiary{
+	text-transform: uppercase;
+	font-size: 12px;
+	padding-top: 0px;
+}
+.section3{
+	padding-bottom: 200px;
+}
+.section5{
+	background-color: grey;
+}
+.section5-h1{
+	font-size: 30px;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+.div-form{
+	text-align: center;
+	padding-bottom: 40px;
+}
+.section6{
+	padding-top: 100px;
+}
+.flex1{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.section7-form{
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+.button{
+	width: 100px;
+	height: 50px;
+}
+.color{
+	background-color: lightgrey;
+}
+.footer-p{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.input{
+	border: none;
+	border-bottom: 2px solid black;
+}
